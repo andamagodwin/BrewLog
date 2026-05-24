@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coffee_deep">#1B120E</color>
+    <color name="coffee_brown">#4E342E</color>
+    <color name="coffee_mocha">#7B5E57</color>
+    <color name="coffee_gold">#B98B4D</color>
+    <color name="coffee_cream">#F7F1EA</color>
+    <color name="coffee_surface">#FFF8F2</color>
+    <color name="coffee_green">#2E7D32</color>
+    <color name="coffee_yellow">#C9A227</color>
+    <color name="coffee_red">#B3261E</color>
+    <color name="coffee_text">#241711</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

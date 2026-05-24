@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BrewLog" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/coffee_brown</item>
+        <item name="colorSecondary">@color/coffee_mocha</item>
+        <item name="colorTertiary">@color/coffee_gold</item>
+        <item name="android:statusBarColor">@color/coffee_deep</item>
+        <item name="android:navigationBarColor">@color/coffee_deep</item>
+    </style>
+</resources>
